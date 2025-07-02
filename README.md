@@ -17,3 +17,5 @@ This project aims to ensure the preservation of digital assets in a federated fi
 ## 📜 License
 
 This project is for academic purposes only.
+
+📄 [Download Project Report](./report.pdf)
